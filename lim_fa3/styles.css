@@ -1,0 +1,40 @@
+* {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body {
+    color: white;
+    background-color: #1e1e1e;
+}
+
+h1 {
+    padding-top: 30px;
+}
+
+.container {
+    padding: 10px;
+    display: inline-flex;
+}
+
+.ctn1, .ctn2 {
+    margin-right: 20px;
+}
+
+.ctn1, .ctn2, .ctn3 {
+    width: 250px;
+    border-radius: 15px;
+    border: 2px solid white;
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+hr {
+    margin: 20px;
+    height: 2px;
+    background-color: white;
+    border-radius: 5px;
+}
